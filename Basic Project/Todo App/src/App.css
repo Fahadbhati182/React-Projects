@@ -1,0 +1,35 @@
+.todo-items {
+    width: 100%;
+}
+
+.todo-header {
+    margin: 50px;
+}
+
+.todo-header {
+    margin: 30px;
+
+
+}
+
+.todo-mains {
+    margin: 10px;
+}
+
+.todo-buttons{
+    width: 80px;
+}
+
+.arrange{
+    float: inline-start;
+}
+
+.text-display{
+    font-size: 23px;
+}
+
+.todo-delete{
+    margin: 30px;
+    font-size: 50px;
+    
+}

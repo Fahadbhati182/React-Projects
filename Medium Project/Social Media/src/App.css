@@ -1,0 +1,28 @@
+.app-container {
+    display: flex;
+}
+
+.content {
+    width: 100%;
+}
+
+.post-card {
+    margin: 20px;
+}
+
+.my-tags {
+    padding: 20px;
+
+    margin: 10px;
+}
+
+.reactions {
+    width: 100%;
+    margin: 20px, 0, 0, 0;
+}
+
+.create-post {
+    width: 80%;
+    margin-top: 50px;
+    margin-left: 10%;
+}
